@@ -2,7 +2,7 @@
 
 /// <summary>
 /// Class for a math quiz program
-/// Author: [Your Name]
+/// Author: Yanzhi Wang
 /// Purpose: To generate random math questions and keep track of the number of correct answers
 /// Restrictions: None
 /// </summary>
